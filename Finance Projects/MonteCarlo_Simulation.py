@@ -47,7 +47,7 @@ def monte_carlo():
     plt.title("Simulated Stock Price")
     plt.show()
 
-print(monte_carlo())
+
 
 
 
